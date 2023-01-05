@@ -1,13 +1,16 @@
+/*This applies to the entire webpage*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Background Color*/
 body {
     background-color: #d9dcd6;
 }
 
+/*Main Header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ header {
     color: #ffffff;
 }
 
+/*Company Title*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*Company Title*/
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation Bar*/
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +38,30 @@ header div {
     font-size: 20px;
 }
 
+/*Navigation Bar*/
 header div ul {
     list-style-type: none;
 }
 
+/*List Elements in Navigation Bar*/
 header div ul li {
     display: inline-block;
     position: right;
     margin-left: 25px;
 }
 
+/*Navigation Bar*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Paragraph text on webpage*/
 p {
     font-size: 16px;
 }
 
+/*Main Image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +71,26 @@ p {
     background-position: center;
 }
 
+/*Search Engine Optimization*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Online Reputation Management*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Three Main Containers*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Benefits Container*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -87,54 +102,64 @@ p {
     background-color: #2589bd;
 }
 
+/*Lead Generation Container*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Brand Awareness Container*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Cost Management Container*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Benefit Lead Heading*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Benefit Brand Heading*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Benefit Cost Heading*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Benefit Lead Image*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Benefit Brand Image*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Benefit Cost Image*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Search Engine Optimization Container*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,6 +169,7 @@ p {
     color: #ffffff;
 }
 
+/*Online Reputation Management Container*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,6 +179,7 @@ p {
     color: #ffffff;
 }
 
+/*Social Media Marketing Container*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,33 +189,40 @@ p {
     color: #ffffff;
 }
 
+/*Search Engine Optimization Image*/
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/*Online Reputation Management Image*/
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/*Social Media Marketing Image*/
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*Search Engine Optimization Heading*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*Online Reputation Management Heading*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*Social Media Marketing Heading*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*Footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -196,6 +230,7 @@ footer {
     text-align: center;
 }
 
+/*Footer Heading*/
 footer h2 {
     font-size: 20px;
 }
