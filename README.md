@@ -35,7 +35,3 @@ Full-Stack Coding Bootcamp
 ## Application Link
 
 https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/
-
-## GitHub Repository 
-
-https://github.com/TheKelsenator/HTML-CSS-Code-Refactor-01
