@@ -32,8 +32,10 @@ Full-Stack Coding Bootcamp
 ![alt_img](./assets/images/Challenge-One-1.png)
 ![alt_img](./assets/images/Challenge-One-2.png)
 
-## Application Links
+## Application Link
 
 https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/
+
+## GitHub Repository 
 
 https://github.com/TheKelsenator/HTML-CSS-Code-Refactor-01
