@@ -68,7 +68,7 @@ p {
     margin-bottom: 25px;
     background-image: url("../assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: auto;
 }
 
 /*Search Engine Optimization*/
