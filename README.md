@@ -29,6 +29,7 @@ Full-Stack Coding Bootcamp
 
 ## Screen Shot
 
+![alt_img](./assets/images/Challenge-One-1.png)
 ![alt_img](./assets/images/Challenge-One-2.png)
 
 ## Application Link
