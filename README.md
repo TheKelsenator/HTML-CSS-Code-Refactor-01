@@ -60,6 +60,6 @@ This codebase adheres to accessibility standards to ensure optimal performance i
   * Application Link: https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/
   * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
 
-  ## Contact Me
+## Contact Me
 
-  Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.
+Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.
