@@ -1,11 +1,24 @@
-# Weekly Challenge: One -
+# HTML CSS Git Challenge: Code Refractor
 
-## HTML CSS Git Challenge: Code Refractor
+## Weekly Challenge: One -
 
 University of Utah
 Full-Stack Coding Bootcamp
 
 - Fall 2022 - Spring 2023
+
+## Description
+
+This codebase adheres to accessibility standards to ensure optimal performance in search engines. By incorporating semantic HTML elements, maintaining a logical structure independent of styling, providing accessible alt attributes for images, ensuring sequential order of heading attributes, and crafting concise and descriptive title elements, we optimize our site for accessibility and search engine optimization (SEO). This commitment to accessibility not only enhances user experience but also improves discoverability and indexing by search engines.
+
+## Table of Contents 
+
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [License](#license)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+  - [Contact Me](#contact-me)
 
 ## User Story
 
@@ -27,11 +40,26 @@ Full-Stack Coding Bootcamp
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
+## License
+
+  This project is licensed under the terms of the MIT license.
+  [License Information](https://choosealicense.com/licenses/mit)
+  <br/>
+  <br/>
+  <a href="https://choosealicense.com/licenses/mit">
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  </a>
+
 ## Screen Shot
 
 ![alt_img](./assets/images/Challenge-One-1.png)
 ![alt_img](./assets/images/Challenge-One-2.png)
 
-## Application Link
+## Link
 
-https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/
+  * Application Link: https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/
+  * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
+
+  ## Contact Me
+
+  Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.
