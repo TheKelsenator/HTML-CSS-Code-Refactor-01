@@ -55,7 +55,7 @@ This codebase adheres to accessibility standards to ensure optimal performance i
 ![alt_img](./assets/images/Challenge-One-1.png)
 ![alt_img](./assets/images/Challenge-One-2.png)
 
-## Link
+## Links
 
   * Application Link: https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/
   * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
