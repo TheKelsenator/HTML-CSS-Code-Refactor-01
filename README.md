@@ -16,7 +16,7 @@ This codebase adheres to accessibility standards to ensure optimal performance i
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [License](#license)
-  - [Screenshots](#screenshots)
+  - [Screenshots](#screen-shots)
   - [Links](#links)
   - [Contact Me](#contact-me)
 
@@ -50,7 +50,7 @@ This codebase adheres to accessibility standards to ensure optimal performance i
   <img src="https://img.shields.io/badge/License-MIT-blue" />
   </a>
 
-## Screen Shot
+## Screenshots
 
 ![alt_img](./assets/images/Challenge-One-1.png)
 ![alt_img](./assets/images/Challenge-One-2.png)
