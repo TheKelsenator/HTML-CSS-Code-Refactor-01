@@ -16,7 +16,7 @@ This codebase adheres to accessibility standards to ensure optimal performance i
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [License](#license)
-  - [Screenshots](#screen-shots)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Contact Me](#contact-me)
 
