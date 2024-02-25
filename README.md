@@ -1,6 +1,6 @@
-# HTML CSS Git Challenge: Code Refractor
+# Weekly Challenge: One -
 
-## Weekly Challenge: One -
+## HTML CSS Git Challenge: Code Refractor
 
 University of Utah
 Full-Stack Coding Bootcamp
